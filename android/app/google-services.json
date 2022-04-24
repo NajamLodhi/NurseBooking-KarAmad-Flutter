@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860575061562",
+    "project_id": "karamad-3095f",
+    "storage_bucket": "karamad-3095f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860575061562:android:cc1a9c2baca7aefe0b4703",
+        "android_client_info": {
+          "package_name": "com.kamad.karamad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860575061562-ema3plc71d4ae59m0smsn7uuok31ceh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWqDg3k9O1gK6avVuD_MorI7QaGnAqdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860575061562-ema3plc71d4ae59m0smsn7uuok31ceh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
